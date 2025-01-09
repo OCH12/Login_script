@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class JavaFile {
+public class Script {
     private static Map<String, User> users = new HashMap<>();
 
     public static void main(String[] args) {
